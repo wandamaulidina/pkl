@@ -1,0 +1,28 @@
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  
+}
+.item1{
+    flex: 1;
+    height: 50px;
+    background-color: aqua;
+}
+.item2{
+    flex: 1;
+    height: 50px;
+    background-color: aquamarine;
+}
+.item3{
+    flex: 1;
+    height: 50px;
+    background-color: bisque;
+}
+.item4{
+    flex: 1;
+    height: 50px;
+    background-color: rgb(121, 156, 175);
+}
+
+
